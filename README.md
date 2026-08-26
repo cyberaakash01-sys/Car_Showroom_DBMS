@@ -49,6 +49,31 @@ Car_Showroom_DBMS
 5. Run the application
 
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### Car Management
+![Cars](screenshots/cars.png)
+
+### Customer Management
+![Customers](screenshots/customers.png)
+
+### Employee Management
+![Employees](screenshots/employees.png)
+
+### Orders Management
+![Orders](screenshots/orders.png)
+
+### Payments Management
+![Payments](screenshots/payments.png)
+
+
+
 ## Author
 
 Aakash Samai
